@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 58e695d4eac8754409ea2801d010d011
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box011
+    100002: Box012
+    100004: Cerni
+    100006: Line01
+    100008: Line020
+    100010: LogoBall
+    100012: LogoBall0
+    100014: //RootNode
+    100016: Object
+    100018: Object01
+    100020: Plane01
+    100022: Plane02
+    100024: Sphere01
+    100026: Sphere010
+    100028: Sphere012
+    100030: TG_Pad
+    100032: TG_Pad_Kinesis
+    100034: Wood_Wall_180_cm
+    100036: Wood_Wall_90_cm
+    400000: Box011
+    400002: Box012
+    400004: Cerni
+    400006: Line01
+    400008: Line020
+    400010: LogoBall
+    400012: LogoBall0
+    400014: //RootNode
+    400016: Object
+    400018: Object01
+    400020: Plane01
+    400022: Plane02
+    400024: Sphere01
+    400026: Sphere010
+    400028: Sphere012
+    400030: TG_Pad
+    400032: TG_Pad_Kinesis
+    400034: Wood_Wall_180_cm
+    400036: Wood_Wall_90_cm
+    2100000: Box011Mat
+    2100002: Box012Mat
+    2100004: CerniMat
+    2100006: Line01Mat
+    2100008: Line020Mat
+    2100010: LogoBallMat
+    2100012: LogoBall0Mat
+    2100014: ObjectMat
+    2100016: Object01Mat
+    2100018: Plane01Mat
+    2100020: Plane02Mat
+    2100022: Sphere01Mat
+    2100024: Sphere010Mat
+    2100026: Sphere012Mat
+    2100028: TG_PadMat
+    2100030: TG_Pad_KinesisMat
+    2100032: Wood_Wall_180_cmMat
+    2100034: Wood_Wall_90_cmMat
+    2300000: Box011
+    2300002: Box012
+    2300004: Cerni
+    2300006: Line01
+    2300008: Line020
+    2300010: LogoBall
+    2300012: LogoBall0
+    2300014: Object
+    2300016: Object01
+    2300018: Plane01
+    2300020: Plane02
+    2300022: Sphere01
+    2300024: Sphere010
+    2300026: Sphere012
+    2300028: TG_Pad
+    2300030: TG_Pad_Kinesis
+    2300032: Wood_Wall_180_cm
+    2300034: Wood_Wall_90_cm
+    3300000: Box011
+    3300002: Box012
+    3300004: Cerni
+    3300006: Line01
+    3300008: Line020
+    3300010: LogoBall
+    3300012: LogoBall0
+    3300014: Object
+    3300016: Object01
+    3300018: Plane01
+    3300020: Plane02
+    3300022: Sphere01
+    3300024: Sphere010
+    3300026: Sphere012
+    3300028: TG_Pad
+    3300030: TG_Pad_Kinesis
+    3300032: Wood_Wall_180_cm
+    3300034: Wood_Wall_90_cm
+    4300000: Box011
+    4300002: Box012
+    4300004: Cerni
+    4300006: Line01
+    4300008: Line020
+    4300010: LogoBall
+    4300012: LogoBall0
+    4300014: Object
+    4300016: Object01
+    4300018: Plane01
+    4300020: Plane02
+    4300022: Sphere01
+    4300024: Sphere010
+    4300026: Sphere012
+    4300028: TG_Pad
+    4300030: TG_Pad_Kinesis
+    4300032: Wood_Wall_180_cm
+    4300034: Wood_Wall_90_cm
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
